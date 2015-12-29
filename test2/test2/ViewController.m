@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  Demo03-poetry
+//  test2
 //
-//  Created by 风尘一粒沙 on 15/12/24.
+//  Created by 风尘一粒沙 on 15/12/29.
 //  Copyright © 2015年 风尘一粒沙. All rights reserved.
 //
 
@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"这是测试的");
 }
 
 - (void)didReceiveMemoryWarning {
